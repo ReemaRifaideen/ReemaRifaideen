@@ -5,6 +5,10 @@
 
 💻 I’m currently working on:<br>"Building Real-World E-commerce Project Using .NET"<br><br>🎀 I’m looking to collaborate on:<br>"projects relate on my working domain "<br><br>🎓 I’m currently learning:<br>"🔸BIT |UCSC<br>🔸Artificial Intelligence<br>🔸Cybersecurity<br>🔸Full Stack Web Development"<br><br>🌼Quote: "--> If your plan 'A' fails, implement plan 'B' <--"
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ReemaRifaideen.ReemaRifaideen&"  />
+</div>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/reema-rifaideen-7a580b33b) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/0824/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reemarifaideen.it@gmail.com) 
 
