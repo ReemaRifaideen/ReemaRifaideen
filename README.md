@@ -2,11 +2,12 @@
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2luM2RoYjIxOGFtandwa2NwYmh1cXZpZjN5NnRqaTRrdTU4emQ2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WPzXwGe3zvnTINvmT5/giphy.gif"  />
 </div>
-
-💻 I’m currently working on:<br>Building Real-World E-commerce Project Using .NET<br><br>🎀 I’m looking to collaborate on:<br>projects relate on my working domain <br><br>🎓 I’m currently learning:<br>🔸BIT |UCSC<br>🔸Artificial Intelligence<br>🔸Cybersecurity<br>🔸Full Stack Web Development<br><br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ReemaRifaideen.ReemaRifaideen&"  />
 </div>
+
+💻 I’m currently working on:<br>Building Real-World E-commerce Project Using .NET<br><br>🎀 I’m looking to collaborate on:<br>projects relate on my working domain <br><br>🎓 I’m currently learning:<br>🔸BIT |UCSC<br>🔸Artificial Intelligence<br>🔸Cybersecurity<br>🔸Full Stack Web Development<br><br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/reema-rifaideen-7a580b33b) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)]([https://codepen.io/https://codepen.io/0824/](https://codepen.io/0824/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](reemarifaideen.it@gmail.com) 
