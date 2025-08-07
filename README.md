@@ -1,4 +1,4 @@
-## Hi there 👋I'm Reema Here!
+## Hi there 👋I'm Reema here!
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2luM2RoYjIxOGFtandwa2NwYmh1cXZpZjN5NnRqaTRrdTU4emQ2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WPzXwGe3zvnTINvmT5/giphy.gif"  />
 </div>
