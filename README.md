@@ -6,7 +6,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ReemaRifaideen.ReemaRifaideen&"  />
 </div>
 
-💻 I’m currently working on:<br>Building Real-World E-commerce Project Using .NET<br><br>🎀 I’m looking to collaborate on:<br>projects relate on my working domain <br><br>🎓 I’m currently learning:<br>🔸BIT |UCSC<br>🔸Artificial Intelligence<br>🔸Cybersecurity<br>🔸Full Stack Web Development<br><br>
+💻 I’m currently working on:<br>Building Real-World E-commerce Project Using .NET<br><br>🎀 I’m looking to collaborate on:<br>projects relate on my working domain <br><br>🎓 I’m currently learning:<br>🔸BIT | UCSC<br>🔸Artificial Intelligence<br>🔸Cybersecurity<br>🔸Full Stack Web Development<br><br>
 
 
 ## 🌐 Socials:
