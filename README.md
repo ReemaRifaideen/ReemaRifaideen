@@ -15,7 +15,7 @@ I’m an aspiring full‑stack developer who loves turning ideas into real, work
 # 📞 Reach me
 
 - 📫 Mail: reemarifaideen.it@gmail.com
-- 🌍 Portfolio: [your portfolio URL]
+- 🌍 Portfolio: https://reemarifaideen.github.io/Professional-Portfolio/
 - 🔗 LinkedIn: https://www.linkedin.com/in/reema-rifaideen/
 - 🔏 CodePen: https://codepen.io/reemarifaideen
 
