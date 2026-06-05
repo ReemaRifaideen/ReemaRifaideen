@@ -40,13 +40,6 @@ I’m an aspiring full‑stack developer who loves turning ideas into real, work
 
 ---
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ReemaRifaideen&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ReemaRifaideen&icon=6&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!--# 📌 Pinned projects
